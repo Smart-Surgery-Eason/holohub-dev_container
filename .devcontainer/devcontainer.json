@@ -1,7 +1,8 @@
 {
-	"name": "holohub:v2.0.0-dgpu",
-	"image": "nvcr.io/nvidia/clara-holoscan/holoscan:v2.2.0-dgpu",
+	"name": "holohub:v2.2.0-dgpu",
+	"image": "easonli0701/holohub:v2.2.0-dgpu",
 	"runArgs": [
 		"--runtime=nvidia"
 	]
 }
+
